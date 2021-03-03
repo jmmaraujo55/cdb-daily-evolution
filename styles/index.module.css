@@ -1,0 +1,59 @@
+.main {
+    position: fixed;
+    top: 60pt;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.datePicker {
+    padding: 10pt !important;
+}
+
+.gridItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20pt;
+}
+
+.left {
+    position: fixed;
+    width: 50%;
+    height: calc(100% - 80pt);
+    top: 70pt;
+    left: 0;
+    border-right: #7a58b3 0.5pt solid;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.right {
+    position: fixed;
+    width: 50%;
+    height: calc(100% - 80pt);
+    top: 70pt;
+    right: 0;
+    border-left: #7a58b3 0.5pt solid;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    color: #0000008a;
+    font-size: small;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert {
+    font-size: 7pt;
+    color: #0000008a;
+}

@@ -1,0 +1,11 @@
+.head {
+    background-color: #7a58b3;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60pt;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+}
