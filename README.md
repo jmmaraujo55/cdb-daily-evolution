@@ -50,9 +50,3 @@ O projeto conta com um shell script `deploy.sh` que ao ser executado realizará 
         "unitPrice": 1000.53397
     }, ...]
 ```
-
-
-
-
-
-
