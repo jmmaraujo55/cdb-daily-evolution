@@ -28,7 +28,7 @@ class CdbService {
 
                 accumulated.push({
                     date: formatedDate,
-                    unitPrice: accumulatedTcdi
+                    unitPrice: accumulatedTcdi,
                 });
             }
         }
